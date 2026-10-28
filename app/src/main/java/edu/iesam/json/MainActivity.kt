@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import edu.iesam.json.gson.domain.mockData
+import edu.iesam.json.serializar.domain.KMockData
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -19,5 +20,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         mockData()
+        KMockData()
     }
 }
