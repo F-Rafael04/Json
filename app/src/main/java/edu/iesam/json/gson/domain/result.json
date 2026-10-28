@@ -1,0 +1,16 @@
+{
+  "dog": {
+    "chip": "0123123ABV"
+  },
+  "id": "1",
+  "name": "Tobi",
+  "owner": {
+    "address": {
+      "name": "Sta. Teresa",
+      "number": "2",
+      "zipCode": "05001"
+    },
+    "id": "1",
+    "name": "Pepe"
+  }
+}
